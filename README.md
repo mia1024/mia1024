@@ -3,6 +3,9 @@
 - Pronouns: she/her/hers
 - Personal Website: https://miaceleste.net/
 - ![Build Passing](build-passing.svg)
+
+![stats](https://github-readme-stats.vercel.app/api?username=mia1024&count_private=true&show_icons=true&theme=vue&hide_border=true)
+
 # Selected Projects
 
 Here is short list of some projects I've done. Please go to each project's repository for deatails
