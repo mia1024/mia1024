@@ -4,7 +4,7 @@
 - Personal Website: https://miaceleste.net/
 - ![Build Passing](build-passing.svg)
 
-![stats](https://github-readme-stats.vercel.app/api?username=mia1024&count_private=true&show_icons=true&theme=vue&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=mia1024&count_private=true&show_icons=true&theme=vue&hide_border=true&title_color=FF80CA&icon_color=29e7cd&text_color=B780FF)
 
 # Selected Projects
 
