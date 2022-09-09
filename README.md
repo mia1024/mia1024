@@ -1,7 +1,6 @@
 # About Me
-- Current student at Harvey Mudd College, class of 2024
+- Current student at Harvey Mudd College, class of 2024. Pursuing a double major in Computer Science and Art
 - Pronouns: she/her/hers
-- Personal Website: https://miaceleste.net/
 - ![Build Passing](build-passing.svg)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=mia1024&count_private=true&show_icons=true&theme=vue&hide_border=true&title_color=FF80CA&icon_color=29e7cd&text_color=B780FF)
@@ -28,12 +27,12 @@ Here is short list of some projects I've done. Please go to each project's repos
   - ![mosaic-bot screenshot](https://github.com/mia1024/discord-mosaic-bot/blob/main/screenshots/cat.png)
 
 ## ANSI Arts and Games
+- [Terminal Minesweeper](https://github.com/mia1024/terminal-minesweeper) (2020-2022)
+  ![Minesweeper screenshot](https://github.com/mia1024/terminal-minesweeper/raw/main/img/intro.gif)
+  - An implementation of the classic Minesweeper in terminal using the curses library in Python. Can be played with either keyboard, mouse, or both on compatible terminals. Listed on PyPi as `terminal-minesweeper`.
 - [Space Invaders](https://github.com/mia1024/space-invaders) (2021)
   ![space invaders titlescreen](https://github.com/mia1024/space-invaders/raw/main/screenshots/titlescreen.png)
   - A Rust implementation of the classic arcade game space invaders in terminal
-- [Terminal Minesweeper](https://github.com/mia1024/terminal-minesweeper) (2020)
-  ![Minesweeper screenshot](https://github.com/mia1024/terminal-minesweeper/raw/main/screenshots/light_mode.png)
-  - An implementation of the classic Minesweeper in terminal using the curses library in Python. Can be played with either keyboard, mouse, or both on compatible terminals. Listed on PyPi as `terminal-minesweeper`.
 - [Pride Nyancat](https://github.com/mia1024/pride-nyancat) (2020)
   ![A](https://github.com/mia1024/pride-nyancat/raw/master/img/A.gif)
   - A fork of the [terminal nyancat](https://github.com/klange/nyancat) but changed the background to various pride-flags. Color-corrected other parts of the image. Also added support for Truecolor terminals.
