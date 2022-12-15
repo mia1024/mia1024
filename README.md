@@ -7,7 +7,13 @@
 
 # Selected Projects
 
-Here is short list of some projects I've done. Please go to each project's repository for deatails
+Here is short list of some projects I've been involved in. Please go to each project's repository for deatails
+
+## Websites
+
+- [Hyperschedule](https://github.com/muddCreates/hyperschedule) (2022 - 2024)
+  - Created in 2017, Hyperschedule was the most used tool for course scheduling in the Claremont Colleges
+  - I'm the 3rd generation maintainer of the project for my remaining time in college.  
 
 ## Libraries
 
