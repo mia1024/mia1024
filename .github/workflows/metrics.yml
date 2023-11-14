@@ -25,20 +25,20 @@ jobs:
           plugin_languages: yes
           plugin_languages_analysis_timeout: 30
           plugin_languages_analysis_timeout_repositories: 30
-          plugin_languages_sections: recently-used
+          plugin_languages_sections: recently-used, most-used
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 90
+          plugin_languages_recent_days: 180
           plugin_languages_recent_load: 300
           plugin_languages_threshold: 5%
           plugin_languages_details: lines
-          plugin_languages_indepth_custom: "hyperschedule/hyperschedule, hyperschedule/hyperschedule@master, hmc-whisk/jsLDA"
+          plugin_languages_indepth_custom: "hyperschedule/hyperschedule, hyperschedule/hyperschedule@master, hmc-whisk/jsLDA, Vocodex-Team/vocodex"
             
           plugin_lines: yes
           plugin_lines_history_limit: 10
           plugin_lines_repositories_limit: 100
-          plugin_lines_sections: base, repositories
+          plugin_lines_sections: base
           repositories_affiliations: owner, collaborator
