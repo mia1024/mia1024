@@ -2,7 +2,8 @@
 - Current student at Harvey Mudd College, class of 2024. Pursuing a double major in Computer Science and Art
 - ![Build Passing](build-passing.svg)
 
-![stats](https://github-readme-stats.vercel.app/api?username=mia1024&count_private=true&show_icons=true&theme=vue&hide_border=true&title_color=FF80CA&icon_color=29e7cd&text_color=B780FF)
+![stats](./github-metrics.svg)
+
 
 # Selected Projects
 
