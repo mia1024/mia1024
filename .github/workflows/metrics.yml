@@ -19,7 +19,7 @@ jobs:
           user: mia1024
           template: classic
           debug: yes
-          base: header, repositories, metadata
+          base: header, repositories, metadata, activity, community,
           base_indepth: yes
           config_timezone: America/Los_Angeles
           plugin_languages: yes
@@ -38,7 +38,7 @@ jobs:
           plugin_languages_indepth_custom: "hyperschedule/hyperschedule, hyperschedule/hyperschedule@master, hmc-whisk/jsLDA"
             
           plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
+          plugin_lines_history_limit: 10
+          plugin_lines_repositories_limit: 100
+          plugin_lines_sections: base, repositories
           repositories_affiliations: owner, collaborator
