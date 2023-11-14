@@ -22,6 +22,7 @@ jobs:
           base: header, repositories, metadata, activity, community,
           base_indepth: yes
           config_timezone: America/Los_Angeles
+          plugins_errors_fatal: yes
           plugin_languages: yes
           plugin_languages_analysis_timeout: 30
           plugin_languages_analysis_timeout_repositories: 30
