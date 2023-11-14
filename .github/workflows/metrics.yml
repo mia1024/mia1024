@@ -33,7 +33,7 @@ jobs:
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 180
           plugin_languages_recent_load: 300
-          plugin_languages_threshold: 5%
+          plugin_languages_threshold: 0%
           plugin_languages_details: lines
           plugin_languages_indepth_custom: "hyperschedule/hyperschedule, hyperschedule/hyperschedule@master, hmc-whisk/jsLDA, Vocodex-Team/vocodex"
             
