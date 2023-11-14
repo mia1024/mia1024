@@ -18,6 +18,7 @@ jobs:
           # Options
           user: mia1024
           template: classic
+          debug: yes
           base: header, repositories, metadata
           base_indepth: yes
           config_timezone: America/Los_Angeles
