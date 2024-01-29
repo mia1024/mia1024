@@ -9,7 +9,7 @@ I'm currently a student at Harvey Mudd College pursuing a double major in Comput
 
 Here is short list of some projects I've been involved in. Please go to each project's repository for deatails
 
-## [Hyperschedule](https://github.com/muddCreates/hyperschedule)
+## [Hyperschedule](https://github.com/muddCreates/hyperschedule) v2
 ![Hyperschedule Demo](https://github.com/hyperschedule/hyperschedule/blob/8d329ad3b2bab6f9f2fc6cf8903f545399c85ff5/docs/demo.gif)
 - Hyperschedule is the course scheduler used by the majority of the students at the Claremont Colleges.
 - I lead an effort to rewrite the code from scratch using TypeScript, React, NodeJS, and MongoDB. 
