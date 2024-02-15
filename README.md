@@ -7,9 +7,8 @@ I'm currently a senior at Harvey Mudd College finishing up my double major in CS
 Here is short list of some coding projects I've been involved in. You can go to each project's repository for more details 
 
 ## [Hyperschedule](https://github.com/muddCreates/hyperschedule) v2
+- Hyperschedule is the course scheduler used by the majority of the students at the Claremont Colleges. I lead an effort to rewrite the legacy codebase (largely the product of a 2-day Hackathon back in 2017) from scratch using TypeScript, React, NodeJS, and MongoDB. 
 ![Hyperschedule Demo](https://github.com/hyperschedule/hyperschedule/blob/8d329ad3b2bab6f9f2fc6cf8903f545399c85ff5/docs/demo.gif)
-- Hyperschedule is the course scheduler used by the majority of the students at the Claremont Colleges.
-- I lead an effort to rewrite the code from scratch using TypeScript, React, NodeJS, and MongoDB. 
 
 ## [Cross Context Events](https://github.com/mia1024/cross-context-events) 
 - A lightweight library written in Typescript for event synchronization and messaging across Javascript execution contexts. 
