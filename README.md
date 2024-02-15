@@ -1,13 +1,10 @@
  ![Build Passing](build-passing.svg)
 
-![stats](./github-metrics.svg)
+I'm currently a senior at Harvey Mudd College finishing up my double major in CS and Studio Art.
 
-I'm currently a student at Harvey Mudd College pursuing a double major in Computer Science and Art.
+# Projects
 
-
-# Selected Open Source Projects
-
-Here is short list of some projects I've been involved in. Please go to each project's repository for deatails
+Here is short list of some coding projects I've been involved in. You can go to each project's repository for more details 
 
 ## [Hyperschedule](https://github.com/muddCreates/hyperschedule) v2
 ![Hyperschedule Demo](https://github.com/hyperschedule/hyperschedule/blob/8d329ad3b2bab6f9f2fc6cf8903f545399c85ff5/docs/demo.gif)
@@ -33,3 +30,5 @@ Here is short list of some projects I've been involved in. Please go to each pro
 ## [Pride Nyancat](https://github.com/mia1024/pride-nyancat)
 - A fork of the [terminal nyancat](https://github.com/klange/nyancat) but changed the background to various pride-flags. Color-corrected other parts of the image. Also added support for Truecolor terminals.
 ![A](https://github.com/mia1024/pride-nyancat/raw/master/img/A.gif)
+
+![stats](./github-metrics.svg)
